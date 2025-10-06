@@ -1,0 +1,8 @@
+{
+  "name": "hola-ionic-apl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "66b4af46"
+}
